@@ -29,14 +29,14 @@ DCV enables you to develop highly customizable applications for barcode reading,
   - [Android](https://www.dynamsoft.com/document-normalizer/docs/mobile/programming/android/user-guide.html?product=dcv&lang=android-kotlin)
   - [iOS](https://www.dynamsoft.com/document-normalizer/docs/mobile/programming/ios/user-guide.html?product=dcv&lang=objectivec-swift)
 - Scan Passport MRZ
-  - [Android](https://www.dynamsoft.com/capture-vision/docs/mobile/programming/android/user-guide/passport.html)
-  - [iOS](https://www.dynamsoft.com/capture-vision/docs/mobile/programming/ios/user-guide/passport.html)
+  - [Android](https://www.dynamsoft.com/capture-vision/docs/mobile/programming/android/user-guide/mrz.html)
+  - [iOS](https://www.dynamsoft.com/capture-vision/docs/mobile/programming/ios/user-guide/mrz.html)
 
 ### Get Started with Samples
 
 - [Barcode Reader Samples](https://github.com/Dynamsoft/barcode-reader-mobile-samples)
 - [Capture Vision Samples](https://github.com/Dynamsoft/capture-vision-mobile-samples)
-- [Passport MRZ Scanner Sample](https://github.com/Dynamsoft/passport-mrz-scanner-mobile)
+- [MRZ Scanner Sample](https://github.com/Dynamsoft/mrz-scanner-mobile)
 
 ## Licensing
 
