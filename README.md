@@ -22,12 +22,9 @@ DCV enables you to develop highly customizable applications for barcode reading,
 
 ### Get Started with User Guides
 
-- Scan Barcodes
-  - [iOS](https://www.dynamsoft.com/barcode-reader/docs/mobile/programming/objectivec-swift/user-guide.html)
-- Scan Documents
-  - [iOS](https://www.dynamsoft.com/document-normalizer/docs/mobile/programming/ios/user-guide.html?product=dcv&lang=objectivec-swift)
-- Scan Passport MRZ
-  - [iOS](https://www.dynamsoft.com/capture-vision/docs/mobile/programming/ios/user-guide/mrz.html)
+- [Scan Barcodes](https://www.dynamsoft.com/barcode-reader/docs/mobile/programming/objectivec-swift/user-guide.html)
+- [Scan Documents](https://www.dynamsoft.com/document-normalizer/docs/mobile/programming/ios/user-guide.html?product=dcv&lang=objectivec-swift)
+- [Scan MRZ](https://www.dynamsoft.com/capture-vision/docs/mobile/programming/ios/user-guide/mrz.html)
 
 ### Get Started with Samples
 
