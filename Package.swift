@@ -21,6 +21,7 @@ let package = Package(
         .library(name: "DynamsoftLabelRecognizer", targets: ["DynamsoftLabelRecognizer"]),
         .library(name: "DynamsoftMRZ", targets: ["DynamsoftMRZ"]),
         .library(name: "DynamsoftVIN", targets: ["DynamsoftVIN"]),
+        .library(name: "DynamsoftCaptureVisionBundle", targets: ["DynamsoftCaptureVisionBundle"]),
     ],
     dependencies: [
     ],
@@ -39,6 +40,7 @@ let package = Package(
         .binaryTarget(name: "DynamsoftLabelRecognizer", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-labelrecognizer-ios-3.4.30-xcframework.zip", checksum: "13b95adee53ab02ce18c0d1b9221408442ba33a898fce760054215160d1c6b5b"),
         .binaryTarget(name: "DynamsoftMRZ", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-mrz-ios-3.4.20-xcframework.zip", checksum: "2c9b2fc46dbfd5b31b38cb1c7d91090dcea3e7d96917175f0ec25cdeb15a8303"),
         .binaryTarget(name: "DynamsoftVIN", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-vin-ios-3.4.20-xcframework.zip", checksum: "8d59034f8d4cebf9e33b9c8279aa8d8d8ad123fb1a24da8f4e5d8aa8bb2ea926"),
+        .binaryTarget(name: "DynamsoftCaptureVisionBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevision-bundle-ios-2.6.1004-xcframework.zip", checksum: "ebac00798eada3a8853d2499c3a114cc3eaff61dbb77ddbe434f7ff9ec642686"),
     ]
 )
 
