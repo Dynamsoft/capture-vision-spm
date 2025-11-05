@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "DynamsoftCaptureVisionBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevision-bundle-ios-3.2.1000-xcframework.zip", checksum: "8589b804c16390c11287edbf078a70c6f181e92967f1610e2eedf3f2c797b7ae"),   
+        .binaryTarget(name: "DynamsoftCaptureVisionBundle", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevision-bundle-ios-3.2.3000-xcframework.zip", checksum: "fd3fddc70314ca6f48929f927bfc3ecf68f2f03e1c48d241bbdc771cf5b3d981"),   
         .binaryTarget(name: "DynamsoftVINModel", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-vin-model-ios-1.0.0-xcframework.zip", checksum: "ea098d6cc368a8ab541eff485009cc7d43123593b094a9af037fbe420ba123e9"),
     ]
 )
